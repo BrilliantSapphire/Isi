@@ -1,0 +1,41 @@
+* {
+     background-color: #3bb4f1;
+}
+
+*  {
+  text-align: center;
+}
+
+.tabla1 {
+	margin: auto;
+	color: black;
+	background-color: black;
+	width: 200px;
+	height: 100px;
+}
+
+.tabla2 {
+	margin: auto;
+	color: black;
+	background-color: black;
+	width: 500px;
+	height: 150px;
+}
+
+.columna{
+	width: 2000px;
+}
+
+.titulo {
+	background-color: #99d2f2;
+	margin: auto;
+	text-align: center;
+}
+
+.bienvenido {
+	color: white;
+}
+
+.form1 {
+	background-color: white;
+}
